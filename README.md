@@ -5,14 +5,14 @@
 Olá! Me chamo Victor Anizau, tenho 21 anos e sou formado como Técnico em Desenvolvimento de Sistemas pela ETEC Bento Quirino de Campinas-SP. Sou o criador da arquitetura e backend do <a href="https://www.moovox.systems/">**Moovox**</a>, um SaaS de gestão inteligente para fazendas e animais de pasto. Tenho foco em construir sistemas escaláveis, desde a modelagem de bancos de dados até a criação de dashboards informativos. Atualmente, estou aprofundando meus conhecimentos no ecossistema **NestJS** e **Next.js**.
 
 <p align="left">
-    <a href="https://github.com/SEU_USUARIO_AQUI?tab=repositories&sort=stargazers">
+    <a href="https://github.com/VictorAnizauBarros?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
             src="https://custom-icon-badges.demolab.com/github/stars/SEU_USUARIO_AQUI?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://github.com/SEU_USUARIO_AQUI?tab=followers">
+    <a href="https://github.com/VictorAnizauBarros?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
