@@ -92,14 +92,7 @@ Olá! Me chamo Victor Anizau, tenho 21 anos e sou formado como Técnico em Desen
 
 ### 📊 Estatísticas
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=VictorAnizauBarros&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorAnizauBarros)](https://github.com/anuraghazra/github-readme-stats)
 
 <img 
       align="left" 
